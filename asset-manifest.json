@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TheTarnished42/Markdown-Previewer/static/css/main.a6b8e2fc.css",
-    "main.js": "/TheTarnished42/Markdown-Previewer/static/js/main.bc60033f.js",
-    "static/js/787.e31efc28.chunk.js": "/TheTarnished42/Markdown-Previewer/static/js/787.e31efc28.chunk.js",
-    "index.html": "/TheTarnished42/Markdown-Previewer/index.html",
-    "main.a6b8e2fc.css.map": "/TheTarnished42/Markdown-Previewer/static/css/main.a6b8e2fc.css.map",
-    "main.bc60033f.js.map": "/TheTarnished42/Markdown-Previewer/static/js/main.bc60033f.js.map",
-    "787.e31efc28.chunk.js.map": "/TheTarnished42/Markdown-Previewer/static/js/787.e31efc28.chunk.js.map"
+    "main.css": "/Markdown-Previewer/static/css/main.a6b8e2fc.css",
+    "main.js": "/Markdown-Previewer/static/js/main.c0c8b684.js",
+    "static/js/787.e31efc28.chunk.js": "/Markdown-Previewer/static/js/787.e31efc28.chunk.js",
+    "index.html": "/Markdown-Previewer/index.html",
+    "main.a6b8e2fc.css.map": "/Markdown-Previewer/static/css/main.a6b8e2fc.css.map",
+    "main.c0c8b684.js.map": "/Markdown-Previewer/static/js/main.c0c8b684.js.map",
+    "787.e31efc28.chunk.js.map": "/Markdown-Previewer/static/js/787.e31efc28.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6b8e2fc.css",
-    "static/js/main.bc60033f.js"
+    "static/js/main.c0c8b684.js"
   ]
 }
